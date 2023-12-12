@@ -1,0 +1,13 @@
+# Table of contents
+# Learn more at https://jupyterbook.org/customize/toc.html
+
+format: jb-book
+root: intro
+chapters:
+- file: markdown
+- file: notebooks
+- file: markdown-notebooks
+- file: 贝叶斯分类
+- file: 线性判别函数
+- file: 支持向量机
+- file: 聚类
